@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FallingBlocks</string>
+    <string name="button1">极速</string>
+    <string name="button2">街机</string>
+    <string name="button3">鬼畜</string>
+    <string name="button4">上天</string>
+    <string name="RankDefault">排名显示异常</string>
+</resources>
